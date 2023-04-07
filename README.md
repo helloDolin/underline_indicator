@@ -3,7 +3,7 @@
 [ ![underline_indicator release](https://img.shields.io/github/release/crazycodeboy/underline_indicator.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/underline_indicator/releases)
 
 
-A underline indicator.
+A underline indicator
 
 ## Getting Started
 
